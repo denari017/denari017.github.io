@@ -1,0 +1,27 @@
+#container{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#howTo{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#ButtonId{
+    border-radius: 10px;
+}
+
+#ButtonId2{
+    border-radius: 10px;
+}
+
+#inputBarId{
+    border-radius: 10px;
+    width: 250px;
+    height: 21px;
+}
+
+#toDos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px black;
+}
